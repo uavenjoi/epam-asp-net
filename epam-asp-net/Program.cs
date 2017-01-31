@@ -72,3 +72,5 @@ namespace ConsoleApplication1
         }
     }
 }
+
+//ОК
